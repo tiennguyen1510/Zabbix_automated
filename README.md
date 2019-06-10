@@ -19,3 +19,6 @@ This is a tool for create multiple item and trigger. You have a template for key
   ```
 5. In Zabbix interface, you turn on trigger and check status
 ## 3. Related work
+  - Read file csv [item, trigger, hostname,... ]
+  - Split the file json.
+  - Run follow arguments.

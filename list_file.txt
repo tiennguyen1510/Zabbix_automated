@@ -1,0 +1,14 @@
+/etc/passwd
+/etc/shadow
+/etc/crontab
+/usr/sbin/visudo
+check user not set passwd : sudo getent shadow | grep '^[^:]*:.\?:' | cut -d: -f1
+/var/adm/messages, /var/adm/sulog
+check rules allow for ufw(ubuntu), firewalld (centos)
+/etc/hosts.allow
+/etc/hosts
+/etc/networks
+/etc/resolv.conf
+/etc/security/
+/etc/service/
+

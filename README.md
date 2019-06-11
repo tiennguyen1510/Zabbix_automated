@@ -22,3 +22,4 @@ This is a tool for create multiple item and trigger. You have a template for key
   - Read file csv [item, trigger, hostname,... ]
   - Split the file json.
   - Run follow arguments.
+  - User and pass need to be encrypted.

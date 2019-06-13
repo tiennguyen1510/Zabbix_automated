@@ -23,3 +23,4 @@ This is a tool for create multiple item and trigger. You have a template for key
   - Split the file json.
   - Run follow arguments.
   - User and pass need to be encrypted.
+  - Check key of items exist.
